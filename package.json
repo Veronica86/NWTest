@@ -1,0 +1,14 @@
+{
+  "name": "nightwatchproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "Veronica",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
